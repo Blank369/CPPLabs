@@ -1,0 +1,3 @@
+D:\ЮЛЯ 28.03.2020 г\Универ\4 семестр\какие блок-схемы, вы че\lab4\lab44\x64\Debug\lab44.vcxproj.AssemblyReference.cache
+D:\ЮЛЯ 28.03.2020 г\Универ\4 семестр\какие блок-схемы, вы че\lab4\lab44\x64\Debug\lab44.MyForm.resources
+D:\ЮЛЯ 28.03.2020 г\Универ\4 семестр\какие блок-схемы, вы че\lab4\lab44\x64\Debug\lab44.vcxproj.GenerateResource.cache

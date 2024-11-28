@@ -1,0 +1,6 @@
+D:\ЮЛЯ 28.03.2020 г\Универ\4 семестр\какие блок-схемы, вы че\lab3\lab3\x64\Debug\lab3.vcxproj.AssemblyReference.cache
+D:\ЮЛЯ 28.03.2020 г\Универ\4 семестр\какие блок-схемы, вы че\lab3\lab3\x64\Debug\lab3.MyForm.resources
+D:\ЮЛЯ 28.03.2020 г\Универ\4 семестр\какие блок-схемы, вы че\lab3\lab3\x64\Debug\lab3.vcxproj.GenerateResource.cache
+C:\Users\chern\OneDrive\Документы\GitHub\CPPLabs\lab3\lab3\x64\Debug\lab3.vcxproj.AssemblyReference.cache
+C:\Users\chern\OneDrive\Документы\GitHub\CPPLabs\lab3\lab3\x64\Debug\lab3.MyForm.resources
+C:\Users\chern\OneDrive\Документы\GitHub\CPPLabs\lab3\lab3\x64\Debug\lab3.vcxproj.GenerateResource.cache

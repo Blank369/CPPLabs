@@ -1,0 +1,25 @@
+﻿  MyForm.cpp
+C:\Users\chern\OneDrive\Документы\GitHub\CPPLabs\lab3\Header.h(148,19): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+C:\Users\chern\OneDrive\Документы\GitHub\CPPLabs\lab3\Header.h(148,19): warning C4244:         with
+C:\Users\chern\OneDrive\Документы\GitHub\CPPLabs\lab3\Header.h(148,19): warning C4244:         [
+C:\Users\chern\OneDrive\Документы\GitHub\CPPLabs\lab3\Header.h(148,19): warning C4244:             T=float
+C:\Users\chern\OneDrive\Документы\GitHub\CPPLabs\lab3\Header.h(148,19): warning C4244:         ]
+C:\Users\chern\OneDrive\Документы\GitHub\CPPLabs\lab3\Header.h(150,26): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+C:\Users\chern\OneDrive\Документы\GitHub\CPPLabs\lab3\Header.h(150,26): warning C4244:         with
+C:\Users\chern\OneDrive\Документы\GitHub\CPPLabs\lab3\Header.h(150,26): warning C4244:         [
+C:\Users\chern\OneDrive\Документы\GitHub\CPPLabs\lab3\Header.h(150,26): warning C4244:             T=float
+C:\Users\chern\OneDrive\Документы\GitHub\CPPLabs\lab3\Header.h(150,26): warning C4244:         ]
+C:\Users\chern\OneDrive\Документы\GitHub\CPPLabs\lab3\Header.h(148,19): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+C:\Users\chern\OneDrive\Документы\GitHub\CPPLabs\lab3\Header.h(148,19): warning C4244:         with
+C:\Users\chern\OneDrive\Документы\GitHub\CPPLabs\lab3\Header.h(148,19): warning C4244:         [
+C:\Users\chern\OneDrive\Документы\GitHub\CPPLabs\lab3\Header.h(148,19): warning C4244:             T=double
+C:\Users\chern\OneDrive\Документы\GitHub\CPPLabs\lab3\Header.h(148,19): warning C4244:         ]
+C:\Users\chern\OneDrive\Документы\GitHub\CPPLabs\lab3\Header.h(148,19): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+C:\Users\chern\OneDrive\Документы\GitHub\CPPLabs\lab3\Header.h(148,19): warning C4244:         with
+C:\Users\chern\OneDrive\Документы\GitHub\CPPLabs\lab3\Header.h(148,19): warning C4244:         [
+C:\Users\chern\OneDrive\Документы\GitHub\CPPLabs\lab3\Header.h(148,19): warning C4244:             T=long double
+C:\Users\chern\OneDrive\Документы\GitHub\CPPLabs\lab3\Header.h(148,19): warning C4244:         ]
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  lab3.vcxproj -> C:\Users\chern\OneDrive\Документы\GitHub\CPPLabs\lab3\x64\Debug\lab3.exe
